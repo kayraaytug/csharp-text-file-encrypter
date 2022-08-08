@@ -1,0 +1,9 @@
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\bin\Release\KEncrypt.exe.config
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\bin\Release\KEncrypt.exe
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\bin\Release\KEncrypt.pdb
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.Form1.resources
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.Properties.Resources.resources
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.csproj.GenerateResource.cache
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.exe
+C:\Users\kaytu\Desktop\C#\KEncrypt\KEncrypt\obj\Release\KEncrypt.pdb
